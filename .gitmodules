@@ -1,0 +1,3 @@
+[submodule "avrlibx"]
+	path = avrlibx
+	url = git@github.com:pichenettes/avrilx.git
